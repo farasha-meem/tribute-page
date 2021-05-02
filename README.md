@@ -1,0 +1,1 @@
+This is a tribute webpage dedicated to Diego Maradona.
